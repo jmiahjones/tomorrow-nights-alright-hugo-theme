@@ -1,8 +1,8 @@
-name = "Piercer"
+name = "Tomorrow Night's Alright"
 license = "MIT"
-licenselink = "https://github.com/danielkvist/hugo-piercer-theme/blob/master/LICENSE"
-description = "Piercer is a very customizable, fast and simple Hugo theme designed under the mobile-first philosophy."
-homepage = "https://github.com/danielkvist/hugo-piercer-theme"
+licenselink = "https://github.com/jmiahjones/tomorrow-nights-alright-hugo-theme/blob/main/LICENSE"
+description = "Tomorrow Night's Alright is a simple Hugo theme based on the Hugo Piercer Theme and the Tomorrow Night color theme."
+homepage = "https://github.com/jmiahjones/tomorrow-nights-alright-hugo-theme/"
 tags = ["blog", "responsive", "minimal", "simple", "font awesome", "dark", "landing page", "contact form", "mobile", "fast", "customizable", "google fonts"]
 features = [
   "customizable (color palette, font size, font family and more)",
@@ -14,5 +14,4 @@ features = [
 min_version = "0.41"
 
 [author]
-  name = "Danielkvist (Daniel Zaragoza)"
-  homepage = "https://dkvist.com"
+  name = "Jeremiah Jones"

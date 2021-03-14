@@ -3,12 +3,12 @@
     background-origin: content-box;
     background-position: center center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
 
 .btn {
-    background-color: var(--pink);
-    border: 1px solid var(--pink);
+    background-color: var(--red);
+    border: 1px solid var(--red);
     border-radius: 15px;
     color: var(--foreground);
     font-size: var(--p);
@@ -22,5 +22,5 @@
 .btn:hover,
 .btn:active {
     background-color: var(--background);
-    color: var(--pink);
+    color: var(--red);
 }

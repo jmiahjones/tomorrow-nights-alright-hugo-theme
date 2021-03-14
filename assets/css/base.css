@@ -3,7 +3,7 @@ a {
 }
 
 a:hover {
-    color: var(--pink);
+    color: var(--red);
 }
 
 body {

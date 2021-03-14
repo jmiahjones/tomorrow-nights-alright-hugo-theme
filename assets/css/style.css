@@ -46,13 +46,13 @@
 }
 
 .menu__toggle[open=""] {
-    color: var(--pink);
+    color: var(--red);
 }
 
 /* HERO */
 .hero {
     align-items: center;
-    border-bottom: 5px solid var(--green);
+    border-bottom: 5px solid var(--purple);
     color: var(--foreground);
     display: flex;
     flex-direction: column;
@@ -108,7 +108,7 @@
 }
 
 .section a:hover {
-    border-bottom: 3px solid var(--pink);
+    border-bottom: 3px solid var(--red);
 }
 
 .section a:visited {
@@ -163,7 +163,7 @@
 
 input:focus~label,
 input:hover~label {
-    color: var(--pink);
+    color: var(--red);
 }
 
 .contact__form__field--submit {
